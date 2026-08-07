@@ -1,0 +1,6 @@
+{
+  "name": "SLA-Shield Portal",
+  "description": "Cognitive Warehouse & Inventory Rebalancer safeguarding enterprise contract logistics SLAs against upstream port congestion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
